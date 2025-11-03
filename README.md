@@ -1,5 +1,5 @@
 # Terraform-aws-infrastructure
-Multi-Environment AWS Infrastructure (Terraform) dev, staging, prod
+Multi-Environment AWS Infrastructure (Terraform) development, staging, production
 
 Designed and implemented a multi-environment (dev/stage/prod) infrastructure on AWS using Terraform modules.
 
